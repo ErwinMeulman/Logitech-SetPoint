@@ -3,10 +3,10 @@ Logitech SetPoint
 
 %AppData%\Logitech\SetPoint\user.xml\
 %PROGRAMDATA%\Logishrd\SetPointP\Devices\PointingDevice\100006D\100006D.xml\
-%PROGRAMDATA%\Logishrd\SetPointP\Devices\PointingDevice\1001001\1001001.xml\
+%PROGRAMDATA%\Logishrd\SetPointP\Devices\PointingDevice\1001001\1001001.xml
 
-http://logitech-viva.navisite.net/logitech/controldevices/setpoint/devices/2/10000a2.exe\
-http://d23iz4esrwkib6.cloudfront.net/logitech/controldevices/setpoint/devices/2/100006d.exe\
+http://logitech-viva.navisite.net/logitech/controldevices/setpoint/devices/2/10000a2.exe
+http://d23iz4esrwkib6.cloudfront.net/logitech/controldevices/setpoint/devices/2/100006d.exe
 
 <Device DisplayName="MX Revolution" Class="PointingDevice" Model="16777325" \
 <Device DisplayName="Rechargeable Touchpad T650" Class="PointingDevice" Model="16781313"\
