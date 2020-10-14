@@ -11,11 +11,10 @@ http://d23iz4esrwkib6.cloudfront.net/logitech/controldevices/setpoint/devices/2/
 <Device DisplayName="MX Revolution" Class="PointingDevice" Model="16777325" \
 <Device DisplayName="Rechargeable Touchpad T650" Class="PointingDevice" Model="16781313"\
 
-[ftp://ftp.logitech.com/pub/techsupport/mouse/setpoint480.exe] (32-bit)\
-[ftp://ftp.logitech.com/pub/techsupport/mouse/setpoint480_x64.exe] (64-bit)\
+ftp://ftp.logitech.com/pub/techsupport/mouse/setpoint480_x64.exe\
 ftp://ftp.logitech.com/pub/techsupport/mouse//SetPoint6.69.114_smart.exe\
 http://updates.logitech.com/lu/depot/cdbu/setpoint_new/latest_release/files.latest/5_setpoint_logitech_64.exe\
 sp_10064_5_setpoint_logitech_64.exe\
 C:\Program Files\Logitech\SetPointP\SetPointSmooth.dll\
 C:\ProgramData\LogiShrd\SetPointP\Devices\
-C:\Program Files\Logitech\SetPointP\players.ini\
+C:\Program Files\Logitech\SetPointP\players.ini
