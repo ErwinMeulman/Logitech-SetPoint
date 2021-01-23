@@ -10,6 +10,7 @@ http://d23iz4esrwkib6.cloudfront.net/logitech/controldevices/setpoint/devices/2/
 
 <Device DisplayName="MX Revolution" Class="PointingDevice" Model="16777325" \
 <Device DisplayName="Rechargeable Touchpad T650" Class="PointingDevice" Model="16781313"\
+<Device DisplayName="Wireless Trackball M570" Class="PointingDevice" Model="16777388"\
 
 ftp://ftp.logitech.com/pub/techsupport/mouse/setpoint480_x64.exe\
 ftp://ftp.logitech.com/pub/techsupport/mouse//SetPoint6.69.114_smart.exe\
